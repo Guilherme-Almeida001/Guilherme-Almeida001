@@ -60,15 +60,6 @@ I enjoy learning new languages, exploring modern tools, and applying my knowledg
 
 ---
 
-<h3 align="left">Statistics</h3>
-<div align="center">
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guilherme-Almeida001&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guilherme-Almeida001&theme=transparent&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guilherme-Almeida001&theme=transparent) |
-| :-: | :-: | :-: |
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Almeida001&theme=transparent) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Almeida001&theme=transparent&hide_border=true&border_radius=7)](https://git.io/streak-stats) |
-| :-: | :-: |
-</div>
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=Guilherme-Almeida001&label=Profile+Views&color=blue)
